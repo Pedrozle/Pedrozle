@@ -26,7 +26,7 @@ print(p1.speak())
 ### <i>I am... <img src="https://slackmojis.com/emojis/46375-meow_lurk/download" width="35"/> </i>
 
 <p> <img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/download" width="30"/> Hi, I'm João Pedro A.K.A Pedrozle </p>
-<p> <img src="https://slackmojis.com/emojis/48624-meow_brazil/download" width="30"/> Brazillian developer looking for a job abroad 🌎 </p>
+<p> <img src="https://slackmojis.com/emojis/48624-meow_brazil/download" width="30"/> Brazillian FULLSTACK developer looking for a job abroad 🌎 </p>
 
 <div align="right">
   <p> <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> Listening to... <img src="https://slackmojis.com/emojis/13688-meow_dance/download" width="35"/> </p>
@@ -38,7 +38,7 @@ print(p1.speak())
 ### <i> ⚡ Skills</i>
 
 <p> <img src="https://slackmojis.com/emojis/21503-meow_fingerguns2/download" width="30"/> Front-end: HTML & CSS, Angular Framework, React Framework <br> 
-    <img src="https://slackmojis.com/emojis/21503-meow_fingerguns2/download" width="30"/> Back-end: Quarkus Framework, FastAPI, Express</p>
+    <img src="https://slackmojis.com/emojis/21503-meow_fingerguns2/download" width="30"/> Back-end: Quarkus Framework, FastAPI, Express, Django</p>
 <p> <img src="https://slackmojis.com/emojis/13505-meow_ez/download" width="30"/> Game Designer: Unity Engine </p>
 <p> <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Coding: JavaScript, Python, Java, C#, C</p>
 
