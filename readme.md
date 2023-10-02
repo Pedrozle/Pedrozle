@@ -46,7 +46,7 @@ print(p1.speak())
 
 ### <i> ❗ GitHub Stats</i>
 
-If you're here please give me stars ⭐ And don't forget to follow
+If you're here please give me stars ⭐ And don't forget to follow :)
 
 <div align="center">
     <p><img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrozle&theme=dark" /></p>
