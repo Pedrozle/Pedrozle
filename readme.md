@@ -1,4 +1,5 @@
-### <i>Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/> </i>
+### <i
+>Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/> </i>
 
 ```py
 
@@ -46,7 +47,7 @@ print(p1.speak())
 
 ### <i> ❗ GitHub Stats</i>
 
-If you're here please give me stars ⭐ And don't forget to follow :)
+If you're here please give me stars ⭐ And don't forget to follow :D
 
 <div align="center">
     <p><img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrozle&theme=dark" /></p>
