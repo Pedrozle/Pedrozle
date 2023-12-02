@@ -42,6 +42,12 @@ print(p1.speak())
 <p> <img src="https://slackmojis.com/emojis/13505-meow_ez/download" width="30"/> Game Designer: Unity Engine </p>
 <p> <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Coding: JavaScript, Python, Java, C#, C</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,python,js,kotlin,java,docker,fastapi,next,react,angular,django,flutter" />
+  </a>
+</p>
+
 <h2></h2>
 
 ### <i> ❗ GitHub Stats</i>
