@@ -1,7 +1,6 @@
 # Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/> </i>
 
 ```py
-
 class Dev:
     def __init__(self, name, nick, age, height, nouns: list = []):
         self.name = name
@@ -15,7 +14,6 @@ class Dev:
 
 p1 = Dev(name='João Pedro', nick='Pedrozle', age=23, height=174, nouns=["He", "Him"])
 print(p1.speak())
-
 
 ```
 
