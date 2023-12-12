@@ -1,20 +1,16 @@
 # Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/> </i>
 
 ```py
-class Dev:
-    def __init__(self, name, nick, age, height, nouns: list = []):
-        self.name = name
-        self.nickname = nick
-        self.pronouns = nouns
-        self.age = age
-        self.height = height
+user = getGithubInfo()
 
-    def speak(self):
-        return f'Olá, meu nome é {self.name}!'
-
-p1 = Dev(name='João Pedro', nick='Pedrozle', age=23, height=174, nouns=["He", "Him"])
-print(p1.speak())
-
+print(user)
+>> user = {
+    username = Pedrozle,
+    born: Brazil,
+    age = 24,
+    Commits = 300,
+    Repos = 13
+  }
 ```
 
 ### <i>Data Initialized <img src="https://slackmojis.com/emojis/4864-github-check-mark/download" width="30"/> </i>
