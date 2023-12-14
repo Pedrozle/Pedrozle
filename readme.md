@@ -7,9 +7,9 @@ print(user)
 >> user = {
     username = Pedrozle,
     born: Brazil,
-    age = 24,
-    Commits = 300,
-    Repos = 13
+    age: 24,
+    contrib: 305,
+    repos: 11
   }
 ```
 
