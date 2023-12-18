@@ -8,7 +8,7 @@ print(user)
     username = Pedrozle,
     born: Brazil,
     age: 24,
-    contrib: 309,
+    contrib: 310,
     repos: 11
   }
 ```
@@ -17,7 +17,8 @@ print(user)
 
 <h2></h2>
 
-### <i>I am... <img src="https://slackmojis.com/emojis/46375-meow_lurk/download" width="35"/> </i>
+### <i>
+I am... <img src="https://slackmojis.com/emojis/46375-meow_lurk/download" width="35"/> </i>
 
 <p> <img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/download" width="30"/> Hi, I'm João Pedro A.K.A Pedrozle </p>
 <p> <img src="https://slackmojis.com/emojis/48624-meow_brazil/download" width="30"/> Brazillian FULLSTACK developer looking for a job abroad 🌎 </p>
@@ -38,7 +39,7 @@ print(user)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,python,js,kotlin,java,docker,fastapi,next,react,angular,django,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,next,react,angular,python,kotlin,java,docker,fastapi,django,flutter" />
   </a>
 </p>
 
