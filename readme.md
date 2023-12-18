@@ -1,14 +1,14 @@
 # Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/> </i>
 
 ```py
-user = getGithubInfo()
+user = getGithubInfo("pedrozle")
 
 print(user)
 >> user = {
     username = Pedrozle,
     born: Brazil,
     age: 24,
-    contrib: 308,
+    contrib: 309,
     repos: 11
   }
 ```
