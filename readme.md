@@ -8,8 +8,8 @@ print(user)
     username = Pedrozle,
     born: Brazil,
     age: 24,
-    contrib: 310,
-    repos: 11
+    contrib: 311,
+    repos: 10
   }
 ```
 
