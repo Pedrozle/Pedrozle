@@ -53,6 +53,7 @@ If you're here please give me stars ⭐ And don't forget to follow :D
     <p><img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrozle&theme=dark" /></p>
     <p><img height="205em" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrozle&theme=dracula"/></p>
     <p><img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=pedrozle&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true"/><img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozle&layout=compact&theme=vision-friendly-dark&hide_border=true" /></p>
+    <p><img src="https://github-profile-trophy.vercel.app/?username=Pedrozle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/></p>
 </div>
 <h2></h2>
   
