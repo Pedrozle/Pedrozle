@@ -1,23 +1,57 @@
 # Initializing data <img src="https://slackmojis.com/emojis/7695-windows_loading/download" width="30"/> </i>
 
-```py
-user = getGithubInfo("pedrozle")
+<table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="./dogo.gif" alt="Angel" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+       
+     __   ___  __   __   __  __       ___ 
+    |__) |__  |  \ |__) /  \  / |    |__  
+    |    |___ |__/ |  \ \__/ /_ |___ |___ 
 
-print(user)
->> user = {
-    username = Pedrozle,
-    born: Brazil,
-    age: 24,
-    contrib: 311,
-    repos: 10
-  }
-```
+
+</p>
+
+    /ABOUT ME
+    │
+    ├── /BIO
+    │    ├── HE/HIM – BRAZILIAN – (PT/BR + ENGLISH + SPANISH)
+    │    ├── FULL-STACK DEVELOPER
+    │    └── DESIGNER, PHOTOGRAPHER
+    │
+    ├── /STACK
+    │    ├── c#.cs
+    │    ├── javascript.js
+    │    ├── java.java
+    │    ├── typescript.ts
+    │    ├── dart.dart
+    │    └── python.py
+    │
+    ├── /FRAMEWORKS
+    │    ├── Angular.js
+    │    ├── Next.js
+    │    ├── FastAPI
+    │    ├── ASP.NET
+    │
+    └── /IDEs
+        ├── VSCODE (MAIN)
+        ├── JETBRAINS
+        └── MATLAB
+
+
+
+  </tr>
+</table>
 
 ### <i>Data Initialized <img src="https://slackmojis.com/emojis/4864-github-check-mark/download" width="30"/> </i>
 
 <h2></h2>
 
 ### <i>
+
 I am... <img src="https://slackmojis.com/emojis/46375-meow_lurk/download" width="35"/> </i>
 
 <p> <img src="https://slackmojis.com/emojis/12807-meow_attentionreverse/download" width="30"/> Hi, I'm João Pedro A.K.A Pedrozle </p>
